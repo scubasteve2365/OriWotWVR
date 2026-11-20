@@ -1,0 +1,30 @@
+**Ori & the Will of the Wisps VR 1.0** (free mod, OpenXR) 🌲✨
+
+Ori and the Will of the Wisps as a floating 3D diorama in front of you. True native stereo: both eyes are drawn from the same game tick, with no alternate-eye rendering and no warping. The game's real depth layers stay real, so backgrounds sit behind the stage and the foreground comes out toward you. Play it seated with a gamepad.
+
+**What it does**
+- Native stereo through OpenXR, using the game's own 3D layers
+- Holds your headset's refresh rate at normal game speed (checked at 72, 90 and 120 Hz)
+- Screen shake off by default: the camera shake from bosses, thunder and big hits no longer jolts the whole stage (menu option)
+- Green surround for Virtual Desktop's chroma-key passthrough, so your room shows around the game
+- In-headset settings menu: hold both sticks (or press Insert) for stage distance, size, depth, pop-out, sharpening, resolution and more
+- One bat file to install and uninstall. No game files are changed, and it works alongside the randomizer
+
+**What you need**
+- Ori and the Will of the Wisps on Steam
+- A PC VR headset with OpenXR: SteamVR, or Virtual Desktop's VDXR for Quest
+- A gamepad
+
+**Install**
+Unzip it, double click "Install OriWotWVR.bat" and type 1. Start SteamVR or connect Virtual Desktop, then start the game from Steam.
+
+**Please read**
+- Tested on SteamVR and on a Meta Quest 3 through Virtual Desktop. Other headsets should work; reports welcome!
+- Known issue: defeating a boss plays a screen distortion effect that can feel disorienting. Future releases will hunt down more screen movement effects and turn them off.
+- The mod keeps the game offline, so Spirit Trials leaderboards won't work while it's installed.
+
+**Download:** https://github.com/scubasteve2365/OriWotWVR/releases/tag/v1.0
+
+If you enjoy it, you can support more VR mods here ☕ https://buymeacoffee.com/scubasteve2365
+
+By scubasteve2365. MIT licence. A fan mod, not made or approved by Moon Studios or Xbox Game Studios.
