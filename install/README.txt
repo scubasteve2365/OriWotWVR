@@ -1,6 +1,7 @@
 Ori and the Will of the Wisps VR
 VR mod for Ori and the Will of the Wisps (Steam).
 Native stereo, played with a gamepad, as a diorama floating in front of you.
+This mod is free. If you enjoy it, you can buy me a coffee: https://buymeacoffee.com/scubasteve2365
 
 You need
 - The game on Steam.
@@ -58,6 +59,8 @@ If something goes wrong
 
 Tested on
 SteamVR on the author's PC, and Meta Quest 3 through Virtual Desktop's VDXR. NVIDIA graphics. Other headsets should work through OpenXR but have not been tried. AMD and Intel graphics have not been tried.
+
+Support: https://buymeacoffee.com/scubasteve2365
 
 Version 1.0. Credits and licences are in THIRD-PARTY-NOTICES.txt. MIT licensed, by scubasteve2365.
 This is a fan mod, not made or approved by Moon Studios or Xbox Game Studios.
